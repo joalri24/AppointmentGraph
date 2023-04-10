@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Specialty__c</fullName>
+    <description>A Medical Specialty is a branch of medicine that focuses on a specific area or system of the body, or a particular patient population. Practitioners of a specialty undergo specialized training, education, and certification to provide advanced care and expertise in their area of specialization.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Select the doctor&apos;s medical specialty from the list. This indicates their advanced training and expertise in a specific area of medicine, ensuring the patient receives appropriate care.</inlineHelpText>
+    <label>Medical Specialty</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetName>MedicalSpecialties</valueSetName>
+    </valueSet>
+</CustomField>
