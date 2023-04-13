@@ -13,5 +13,5 @@ TODO
 In this application, the medical appointment slots are represented as nodes in a graph, and the time between them is represented as the weight of the edges. The graph algorithm used to find the closest appointments is Dijkstra's algorithm.
 
 
-# Acknowledgments
+## Acknowledgments
 
