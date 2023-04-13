@@ -2,8 +2,8 @@
 This application is designed to demonstrate how to implement a graph and graph algorithms in Salesforce. The specific use case in this application is finding the closest medical appointment slots for different medical specialties.
 
 ## Installation
-Clone the repository to your local machine.
-Deploy the code to your Salesforce org using your preferred deployment tool.
+- Clone the repository to your local machine.
+- Deploy the code to your Salesforce org using your preferred deployment tool.
 
 ## Usage
 TODO
